@@ -1,4 +1,4 @@
-*Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.*
+# ***Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.***
 ```js
 let numero = prompt('digite um numero);
 if (numero >= 0) {
